@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+data/question_history.json
+data/interview_history.json
